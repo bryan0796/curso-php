@@ -1,0 +1,17 @@
+{
+    "name": "bryan/variaveis-super-globais",
+    "autoload": {
+        "psr-4": {
+            "Bryan\\VariaveisSuperGlobais\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Bryan de Palma Martins Vida",
+            "email": "bpmv96@outlook.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
